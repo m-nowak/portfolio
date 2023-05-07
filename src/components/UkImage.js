@@ -3,9 +3,9 @@ import { pulse } from "../utils/motion";
 
 export const UkImage = () => {
   return (
-    <div className="relative mt-20">
+    <div className="relative mt-20 mx-auto">
       <svg
-        className="w-[80%] "
+        className="w-[80%] ml-[10%] "
         viewBox="0 0 789 954"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
