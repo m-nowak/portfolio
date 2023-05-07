@@ -34,8 +34,9 @@ const TwitterClone = () => {
             variants={slideIn("left", "spring", 0.6, 1)}
             className=" font-normal text-gray-500 text-xs sm:text-base pt-4"
           >
-            Next.js, JavaScript, Tailwind-CSS, React-Query,
-            Django-Rest-Framework, PostgreSQL, JWT-Authentication.
+            Next.js, JavaScript, Tailwind&nbsp;CSS, React-Query,
+            Django&nbsp;Rest&nbsp;Framework, PostgreSQL,
+            JWT&nbsp;Authentication.
           </motion.div>
           <motion.div
             variants={slideIn("left", "spring", 0.8, 1)}

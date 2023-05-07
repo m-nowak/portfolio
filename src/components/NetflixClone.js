@@ -40,7 +40,7 @@ const NetflixClone = () => {
             variants={slideIn("right", "spring", 0.6, 1)}
             className=" font-normal text-gray-500 text-xs sm:text-base pt-4"
           >
-            Next.js, TypeScript, Tailwind-CSS, React-Query, Prisma.
+            Next.js, TypeScript, Tailwind&nbsp;CSS, React&nbsp;Query, Prisma.
           </motion.div>
           <motion.div
             variants={slideIn("right", "spring", 0.8, 1)}

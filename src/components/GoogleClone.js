@@ -34,7 +34,7 @@ const GoogleClone = () => {
             variants={slideIn("left", "spring", 0.6, 1)}
             className=" font-normal text-gray-500 text-xs sm:text-base pt-4"
           >
-            Next.js, TypeScript, Tailwind-CSS, React-Query.
+            Next.js, TypeScript, Tailwind&nbsp;CSS, React&nbsp;Query.
           </motion.div>
           <motion.div
             variants={slideIn("left", "spring", 0.8, 1)}
