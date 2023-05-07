@@ -63,7 +63,7 @@ const About = () => {
                 </h2>
                 <p className="font-normal text-gray-500 text-small sm:text-base">
                   HTML, CSS, JavaScript, TypeScript, React, Next.js,
-                  Tailwind-CSS, React-Query, Zustand, Valtio ...
+                  Tailwind&nbsp;CSS, React&nbsp;Query, Zustand, Valtio ...
                 </p>
               </div>
             </div>
