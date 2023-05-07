@@ -160,6 +160,7 @@ const Contact = () => {
             color: "#fff",
             maxWidth: 500,
             textAlign: "center",
+            marginTop: "200px",
           },
           success: {
             icon: false,
