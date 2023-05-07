@@ -3,9 +3,9 @@ import { pulse } from "../utils/motion";
 
 export const UkImage = () => {
   return (
-    <div className="relative mt-20 mx-auto">
+    <div className="relative mt-20 ">
       <svg
-        className="w-[80%] ml-[10%] "
+        className="w-[80%] mx-auto"
         viewBox="0 0 789 954"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -4056,7 +4056,7 @@ export const UkImage = () => {
           fill="#DAE1FF"
         />
       </svg>
-      <div className="w-40 bg-white border-[1px] border-gray-50 rounded-full shadow-lg absolute z-20 bottom-10 left-0 ">
+      <div className="w-40 bg-white border-[1px] border-gray-50 rounded-full shadow-lg absolute z-20 bottom-48 left-0 ">
         <div className="flex p-3 justify-center items-center">
           <img src="assets/location.svg" alt="location" className="w-8 mr-2" />{" "}
           <p>Rugby, UK.</p>
