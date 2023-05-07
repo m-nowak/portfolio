@@ -37,7 +37,7 @@ const About = () => {
             My name is Michal Nowak. I started coding with HTML, CSS,
             JavaScript, JQuery, Ajax, PHP and MySql in 2008. I like to learn
             with new technologies. I&apos;m a quick learner, who create modern,
-            fully-responsive and user-friendly applications.
+            fully&nbsp;responsive and user&nbsp;friendly applications.
           </motion.div>
           <div className=" flex lg:hidden mt-2 p-10 w-[100%] sm:w-[80%] sm:ml-[10%] items-center justify-center">
             <FibonacciImage />
@@ -63,7 +63,7 @@ const About = () => {
                 </h2>
                 <p className="font-normal text-gray-500 text-small sm:text-base">
                   HTML, CSS, JavaScript, TypeScript, React, Next.js,
-                  Tailwind&nbsp;CSS, React&nbsp;Query, Zustand, Valtio ...
+                  Tailwind&nbsp;CSS, React&nbsp;Query, Zustand, Valtio
                 </p>
               </div>
             </div>
@@ -80,7 +80,7 @@ const About = () => {
                 </h2>
                 <p className="font-normal text-gray-500 text-small sm:text-base">
                   Python, Django Rest Framework, Node.js, Express.js, Prisma,
-                  MongoDB, MySql, PostgreSQL ...
+                  MongoDB, MySql, PostgreSQL
                 </p>
               </div>
             </div>
@@ -97,7 +97,7 @@ const About = () => {
                 </h2>
                 <p className="font-normal text-gray-500 text-small sm:text-base">
                   Python, NumPy, Pandas, Seaborn, SciKit-Learn, Tensorflow,
-                  Keras, PyTorch ...
+                  Keras, PyTorch
                 </p>
               </div>
             </div>
