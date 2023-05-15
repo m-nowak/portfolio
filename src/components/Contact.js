@@ -42,7 +42,7 @@ const Contact = () => {
             from_email: form.email,
             message: form.message,
           },
-          process.env.NEXT_PUBLIC_EJS_PUBLIC_KEY
+          process.env.EJS_PUBLIC_KEY
         )
         .then(
           () => {
