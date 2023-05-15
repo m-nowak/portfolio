@@ -32,7 +32,6 @@ const Contact = () => {
     setLoading(true);
 
     if (form.name && form.email && form.message) {
-      console.log(process.env.NEXT_PUBLIC_EJS_SERVICE);
       emailjs
         .send(
           process.env.NEXT_PUBLIC_EJS_SERVICE,
