@@ -32,17 +32,17 @@ const Contact = () => {
     setLoading(true);
 
     if (form.name && form.email && form.message) {
+      console.log(process.env.NEXT_PUBLIC_EJS_SERVICE);
       emailjs
         .send(
-          "service_vbqs3u7",
-          "template_451mvda",
+          process.env.NEXT_PUBLIC_EJS_SERVICE,
+          process.env.NEXT_PUBLIC_EJS_TEMPLATE,
           {
             from_name: form.name,
             from_email: form.email,
-            to_email: "web.buahaha@gmail.com",
             message: form.message,
           },
-          "Fi26qZvUBXoquiPpm"
+          process.env.NEXT_PUBLIC_EJS_PUBLIC_KEY
         )
         .then(
           () => {
