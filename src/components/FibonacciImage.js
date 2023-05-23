@@ -4,12 +4,12 @@ import { svgGrowUp } from "../utils/motion";
 const FibonacciImage = () => {
   return (
     <svg
-      width="70%"
-      height="70%"
+      width="80%"
+      height="80%"
       viewBox="0 0 1324 813"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      className=" rotate-12 lg:mr-12 lg:mt-40 shadow-xl"
+      // className="rotate-12 shadow-xl"
     >
       <rect
         x="12.5"
