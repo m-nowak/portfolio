@@ -20,7 +20,7 @@ export default function Home() {
           name="description"
           content="I'm a full stack developer located in Rugby, UK."
         />
-        <link rel="canonical" href="https://yoursite.com" />
+        <link rel="canonical" href="https://www.michalnowak.co.uk/" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:locale" content="en_GB" />
@@ -33,7 +33,7 @@ export default function Home() {
           content="I'm a full stack developer located in Rugby, UK."
         />
         <meta property="og:image" content="icon_256.png" />
-        <meta property="og:url" content="https://yoursite.com" />
+        <meta property="og:url" content="https://www.michalnowak.co.uk/" />
       </Head>
       <main className="flex flex-col min-h-screen max-w-full">
         <Navbar />
