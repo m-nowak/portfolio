@@ -32,7 +32,7 @@ export default function Home() {
           property="og:description"
           content="I'm a full stack developer located in Rugby, UK."
         />
-        <meta property="og:image" content="icon_256.png" />
+        <meta property="og:image" content="/icon_256.png" />
         <meta property="og:url" content="https://www.michalnowak.co.uk/" />
       </Head>
       <main className="flex flex-col min-h-screen max-w-full">
