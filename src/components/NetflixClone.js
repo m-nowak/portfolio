@@ -47,7 +47,7 @@ const NetflixClone = () => {
             className=" flex items-start space-x-6 font-semibold text-indigo-700 text-base sm:text-lg pt-4"
           >
             <a
-              href="https://netflix-clone-me1x82igf-m-nowak.vercel.app/auth"
+              href="https://netflix-clone-ten-amber.vercel.app"
               className="underline hover:no-underline"
               target="blank"
             >
