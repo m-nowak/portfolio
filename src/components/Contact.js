@@ -90,8 +90,8 @@ const Contact = () => {
                   variants={growUp("160px", "spring", 0.6, 1)}
                 ></motion.span>
               </div>{" "}
-              <p className="mt-4 text-xs font-normal text-gray-900 ">
-                Let&apos;s work together and bring ideas to life
+              <p className="mt-4 text-xs sm:text-base font-normal text-gray-900 ">
+                Let&apos;s work together to bring ideas to life
                 <span className="text-indigo-700 font-bold">!</span>
               </p>
               <form
