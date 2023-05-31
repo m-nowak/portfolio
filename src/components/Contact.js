@@ -92,7 +92,7 @@ const Contact = () => {
               </div>{" "}
               <p className="mt-4 text-xs sm:text-base font-normal text-gray-900 ">
                 Let&apos;s work together to bring ideas to life
-                <span className="text-indigo-700 font-bold">!</span>
+                <span className="text-indigo-600 font-bold">!</span>
               </p>
               <form
                 ref={formRef}
