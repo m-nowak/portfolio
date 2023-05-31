@@ -72,7 +72,7 @@ const About = () => {
             <br />
             <a href="#contact" className="text-indigo-700 hover:underline">
               Let&apos;s work together
-            </a>
+            </a>{" "}
             to bring ideas to life!
           </motion.div>
         </div>
