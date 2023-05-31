@@ -71,8 +71,8 @@ const About = () => {
             fully&nbsp;responsive and user&nbsp;friendly applications.
             <br />
             <a href="#contact" className="text-indigo-700 hover:underline">
-              Let's work together
-            </a>{" "}
+              Let&apos;s work together
+            </a>
             to bring ideas to life!
           </motion.div>
         </div>
@@ -81,7 +81,7 @@ const About = () => {
             <FibonacciImage />
           </div>
         </div>
-      </div>{" "}
+      </div>
       <motion.div
         className="mt-6 sm:mt-8 flex flex-col"
         variants={textVariantFromBottom(0.6)}
