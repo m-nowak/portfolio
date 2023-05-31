@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.michalnowak.co.uk/sitemap.xml
+Sitemap: https://michalnowak.co.uk/sitemap.xml
