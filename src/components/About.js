@@ -44,7 +44,7 @@ const About = () => {
   return (
     <div className=" min-h-[100vh] w-full bg-gradient-to-b from-white to-gray-50">
       <div className="max-w-7xl mx-auto flex items-start justify-between flex-col lg:flex-row">
-        <div className="px-4 py-4 sm:py-8 h-[320px] flex flex-col w-[100%] lg:w-[50%]">
+        <div className="px-4 py-4 sm:py-8 h-[400px] flex flex-col w-[100%] lg:w-[50%]">
           <motion.div
             className="flex flex-col w-full "
             variants={textVariantFromTop(0.1)}
@@ -65,7 +65,7 @@ const About = () => {
             variants={fadeIn("", "", 0.2, 1)}
             className=" font-normal text-gray-900 text-base sm:text-lg pt-2 pb-4"
           >
-            My name is Michal Nowak. I started coding with HTML, CSS,
+            {/* My name is Michal Nowak. I started coding with HTML, CSS,
             JavaScript, JQuery, Ajax, PHP and MySql in 2008. I like to learn
             with new technologies. I&apos;m a quick learner, who create modern,
             fully&nbsp;responsive and user&nbsp;friendly applications.
@@ -73,7 +73,14 @@ const About = () => {
             <a href="#contact" className="text-indigo-700 hover:underline">
               Let&apos;s work together
             </a>{" "}
-            to bring ideas to life!
+            to bring ideas to life! */}
+            My name is Michal Nowak. I am a full stack developer with over ten
+            years of experience in building web applications using various
+            technologies and frameworks. I have expertise in both front-end and
+            back-end development, as well as machine learning and database
+            design. I enjoy creating user-friendly, responsive, and secure
+            applications. I am always eager to learn new skills and explore new
+            challenges in the field of web development.
           </motion.div>
         </div>
         <div className="h-[320px] w-[100%] lg:w-[50%] flex justify-center items-end">
