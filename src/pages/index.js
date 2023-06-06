@@ -22,6 +22,10 @@ export default function Home() {
         />
         <link rel="canonical" href="https://www.michalnowak.co.uk/" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="google-site-verification"
+          content="Glqg7vGJ7wgGyKTyzDELG0d4T49QXWkLiaxb58kq5h4"
+        />
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:locale" content="en_GB" />
         {/* og */}
