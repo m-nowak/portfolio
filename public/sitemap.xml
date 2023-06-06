@@ -1,9 +1,10 @@
    <xml version="1.0" encoding="UTF-8">
    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://michalnowak.co.uk</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
+     <url>
+       <loc>http://www.michalnowak.co.uk</loc>
+       <lastmod>2023-05-30</lastmod>
+       <changefreq>daily</changefreq>
+     </url>
    </urlset>
    </xml>
+   
