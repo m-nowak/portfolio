@@ -75,10 +75,11 @@ const About = () => {
             </a>{" "}
             to bring ideas to life! */}
             My name is Michal Nowak. I am a full stack developer with over ten
-            years of experience in building web applications using various
-            technologies and frameworks. I have expertise in both front-end and
-            back-end development, as well as machine learning and database
-            design. I enjoy creating user-friendly, responsive, and secure
+            years of experience in building web applications. I have expertise
+            in both front-end and back-end development, as well as machine
+            learning and database design. My favorite frameworks are Next.js and
+            Django REST Framework, which I use to build fast and scalable
+            solutions. I enjoy creating user-friendly, responsive, and secure
             applications. I am always eager to learn new skills and explore new
             challenges in the field of web development.
           </motion.div>
