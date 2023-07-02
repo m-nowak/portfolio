@@ -47,7 +47,7 @@ export default function Home() {
         <meta name="theme-color" content="#ffffff" />
         <meta name="application-name" content="Michal Nowak" />
 
-        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
         <link
           rel="icon"
           type="image/png"
