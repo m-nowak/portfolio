@@ -1,31 +1,31 @@
-export const skills = [
+export const skillsList = [
   {
     type: "Frontend",
     image: "/assets/frontend.svg",
     color: "bg-indigo-500",
     skills:
-      "HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, ReactQuery, Zustand, Valtio",
+      "HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, ReactQuery, Zustand, Valtio...",
   },
   {
     type: "Backend",
     image: "/assets/backend.svg",
     color: "bg-gray-700",
     skills:
-      " Python, DjangoRestFramework, Node.js, Express.js, Prisma, MongoDB, MySql, PostgreSQL",
+      " Python, DjangoRestFramework, Node.js, Express.js, Prisma, MongoDB, MySql, PostgreSQL...",
   },
   {
     type: "AI / Machine Learning",
     image: "/assets/ai.svg",
     color: "bg-gray-400",
     skills:
-      "Python, NumPy, Pandas, Seaborn, SciKitLearn, Tensorflow, Keras, PySpark",
+      "Python, NumPy, Pandas, Seaborn, SciKitLearn, Tensorflow, Keras, PySpark...",
   },
   {
     type: "Personal",
     image: "/assets/personal.svg",
     color: "bg-gray-100",
     skills:
-      "Trustworthy, Flexibility, Creativity, Hard-working, Problem-solving, Open-minded",
+      "Trustworthy, Flexibility, Creativity, Hard-working, Problem-solving, Open-minded...",
   },
 ];
 

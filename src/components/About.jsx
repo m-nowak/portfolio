@@ -8,7 +8,7 @@ import {
   textVariantFromBottom,
 } from "../utils/motion";
 import FibonacciImage from "./FibonacciImage";
-import { skills } from "../constants";
+import { skillsList } from "../constants";
 
 const About = () => {
   return (
@@ -49,9 +49,6 @@ const About = () => {
               </motion.div>
             </div>{" "}
             <div className="h-[320px] w-[100%] md:w-[50%] py-3 flex justify-center items-center md:justify-end ">
-              {/* <div className="rotate-3 w-[80%] h-[80%] flex justify-center items-center bg-slate-400">
-            <FibonacciImage />
-          </div> */}
               <FibonacciImage />
             </div>
           </div>
@@ -66,7 +63,7 @@ const About = () => {
           SKILLS
         </h2>
         <div className="max-w-7xl px-4 py-4 mt-8 mx-auto grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-4 gap-4">
-          {skills.map((skill) => (
+          {skillsList.map((skill) => (
             <div
               className="h-[300px] bg-white shadow-lg rounded-md"
               key={skill.type}
