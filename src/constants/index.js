@@ -13,7 +13,7 @@ export const projects = [
   {
     name: "Real-time Chat",
     type: "Full Stack",
-    desc: "Simple MERN Stack application which allows users to send messages in real-time and receive them instantly.",
+    desc: "MERN Stack application which allows users to send messages in real-time and receive them instantly.",
     stack: "ReactJs, NodeJs, MongoDB, ExpressJs, SocketIO, ChakraUI",
     img: "/assets/chat-app.png",
     git: "https://github.com/m-nowak/chat-app",
