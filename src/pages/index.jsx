@@ -80,9 +80,9 @@ export default function Home() {
         <Hero />
         <About />
         <Work />
-        <TwitterClone />
+        {/* <TwitterClone />
         <NetflixClone />
-        <GoogleClone />
+        <GoogleClone /> */}
         <Contact />
         <Footer />
       </main>
