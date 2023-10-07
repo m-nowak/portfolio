@@ -18,7 +18,7 @@ export const skills = [
     image: "assets/ai.svg",
     color: "bg-gray-400",
     skills:
-      "Python, NumPy, Pandas, Seaborn, SciKitLearn, Tensorflow, Keras, PyTorch",
+      "Python, NumPy, Pandas, Seaborn, SciKitLearn, Tensorflow, Keras, PySpark",
   },
   {
     type: "Personal",
@@ -78,7 +78,7 @@ export const projects = [
     type: "Machine Learning",
     desc: "Machine learning model that will help to decide whether to focus on mobile or web app experience of e-commerce company.",
     stack:
-      "Python, JupyterNotebook, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn",
+      "Python, JupyterNotebook, NumPy, Pandas, Matplotlib, Seaborn, SciKitLearn",
     img: "/assets/linear-regression-1.png",
     git: "https://github.com/m-nowak/linear-regression",
     eye: "/assets/Linear-Regression.html",
