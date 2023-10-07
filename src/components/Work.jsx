@@ -27,7 +27,7 @@ const Work = () => {
             >
               &nbsp;
             </motion.span>
-            <p className="mt-10 text-sm px-4 text-center">
+            <p className="mt-10 text-sm px-4 text-center text-gray-600">
               Please see sample projects. Keep in mind these are just simple
               examples.
             </p>
