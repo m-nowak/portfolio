@@ -8,21 +8,21 @@ export const skills = [
   },
   {
     type: "Backend",
-    image: "assets/backend.svg",
+    image: "/assets/backend.svg",
     color: "bg-gray-700",
     skills:
       " Python, DjangoRestFramework, Node.js, Express.js, Prisma, MongoDB, MySql, PostgreSQL",
   },
   {
     type: "AI / Machine Learning",
-    image: "assets/ai.svg",
+    image: "/assets/ai.svg",
     color: "bg-gray-400",
     skills:
       "Python, NumPy, Pandas, Seaborn, SciKitLearn, Tensorflow, Keras, PySpark",
   },
   {
     type: "Personal",
-    image: "assets/personal.svg",
+    image: "/assets/personal.svg",
     color: "bg-gray-100",
     skills:
       "Trustworthy, Flexibility, Creativity, Hard-working, Problem-solving, Open-minded",
