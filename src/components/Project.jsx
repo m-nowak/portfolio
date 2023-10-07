@@ -3,7 +3,7 @@ import React from "react";
 
 const Project = ({ project }) => {
   return (
-    <li className="col-span-1 flex flex-col divide-y divide-gray-200 rounded-lg bg-white text-center shadow-lg border-gray-200 border-[1px]">
+    <li className="col-span-1 flex flex-col divide-y divide-gray-200 rounded-lg bg-white text-center shadow-lg ">
       <div className="flex flex-1 flex-col py-3 px-8 h-[400px]">
         <div className="w-full min-h-[220px] flex justify-center ">
           <div className="relative w-[100%] ">
